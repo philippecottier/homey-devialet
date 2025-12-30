@@ -97,6 +97,7 @@
         "small": "/drivers/dione/assets/images/small.png",
         "large": "/drivers/dione/assets/images/large.png"
       },
+      "icon": "/drivers/dione/assets/icon.svg",
       "id": "dione",
       "settings": [
         {
@@ -184,6 +185,7 @@
         "small": "/drivers/mania/assets/images/small.png",
         "large": "/drivers/mania/assets/images/large.png"
       },
+      "icon": "/drivers/mania/assets/icon.svg",
       "id": "mania",
       "settings": [
         {
@@ -323,6 +325,7 @@
         "small": "/drivers/phantom/assets/images/small.png",
         "large": "/drivers/phantom/assets/images/large.png"
       },
+      "icon": "/drivers/phantom/assets/icon.svg",
       "id": "phantom",
       "settings": [
         {
